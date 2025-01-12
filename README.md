@@ -1,3 +1,10 @@
+# 프로젝트 소개
+일본 게임 대상 아마추어 부분에 도전하며 예선 통과한 2d 횡스크롤 액션 어드벤처 게임을 제작한 프로젝트입니다.
+
+
+
+# 프로젝트 상세 내용
+
 ![1](https://github.com/00moa00/paperIsland/blob/main/pdf/introduction_final-1.png)
 ![2](https://github.com/00moa00/paperIsland/blob/main/pdf/introduction_final-2.png)
 ![3](https://github.com/00moa00/paperIsland/blob/main/pdf/introduction_final-3.png)
