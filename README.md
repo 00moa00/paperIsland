@@ -13,7 +13,7 @@
 # 개발 코멘트
 절차지향프로그래밍으로 진행된 프로젝트입니다.
 
-# 프로젝트 상세 내용
+# 소개 문서
 
 ![1](https://github.com/00moa00/paperIsland/blob/main/pdf/introduction_final-1.png)
 ![2](https://github.com/00moa00/paperIsland/blob/main/pdf/introduction_final-2.png)
